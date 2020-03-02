@@ -1,7 +1,4 @@
 package main;
-
-
-
 import static org.junit.Assert.*;
 
 import org.junit.AfterClass;
@@ -11,6 +8,8 @@ import org.junit.Test;
 import main.java.Calculater;
 
 public class TestAdd {
+	
+	
 	
 	static Calculater c ;
 
